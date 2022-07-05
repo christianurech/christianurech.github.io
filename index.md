@@ -55,7 +55,9 @@ In Summer 2018 I taught the following two courses at the 2018 TMD Undergraduate 
 Don't hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 So far I have supervised the following projects:
-- 
+- Spring 2022: Master thesis of Jeanette Fernandez about automorphisms of Aut(A^2)
+- Spring 2022: Semester project of Marie Abadie about mapping class groups
+- Fall 2021: 
 
 
 
