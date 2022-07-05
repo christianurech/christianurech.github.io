@@ -32,6 +32,17 @@ Previously, I worked as a research associate at Imperial College London. I compl
 12. C. Urech, _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Annales de l'Institut Fourier, Vol. 68, No. 1 (2018), pp. 53-100
 
 
+### Courses taught:
+- Spring 2021: MATH 479 Linear Algebraic groups (graduate), EPFL
+- Spring 2021: MATH 323 Algebraic Topology, EPFL
+- Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	
+- Fall 2020: MATH 111(e) Alg\`ebre Lin\'eaire pour IN/SC,  EPFL
+- Spring 2020: MATH 429 Lie Groups (graduate), EPFL
+- Spring 2020: MATH 323 Algebraic Topology, EPFL
+- Fall 2019: MATH 111(e) Alg\`ebre Lin\'eaire pour IN/SC,  EPFL
+- Spring 2019: M3P21 Algebraic Topology, Imperial College London 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
