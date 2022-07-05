@@ -4,32 +4,32 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 
 ### Preprints:
-1. A. Genevois, A. Lonjou, C. Urech, _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_   [https://arxiv.org/abs/2110.14605](https://arxiv.org/abs/2110.14605)
+1. A. Genevois, A. Lonjou, C. Urech, _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, [ArXiv](https://arxiv.org/abs/2110.14605)
 
-2. A. Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_ [https://arxiv.org/abs/2110.06721](https://arxiv.org/abs/2110.06721)
+2. A. Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, [ArXiv](https://arxiv.org/abs/2110.06721)
 
 
 
 ### Published papers:
-3. A. Liendo, R. Regeta, C. Urech, _Characterization of affine toric varieties by their automorphism groups_, [https://arxiv.org/abs/1805.03991](https://arxiv.org/abs/1805.03991), to appear in Annali della Scuola Normale Superiore di Pisa
+3. A. Liendo, R. Regeta, C. Urech, _Characterization of affine toric varieties by their automorphism groups_, [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Annali della Scuola Normale Superiore di Pisa
 
-4. A. Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, [https://arxiv.org/abs/2010.07225](https://arxiv.org/abs/2010.07225), to appear in Geometry & Topology
+4. A. Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geometry & Topology
 
-5. C. Urech, S. Zimmermann, _Continuous automorphisms of Cremona groups_, [https://arxiv.org/abs/1909.11050](https://arxiv.org/abs/1909.11050),  International Journal of Mathematics, Vol. 32, No. 04, 2150019 (2021)
+5. C. Urech, S. Zimmermann, _Continuous automorphisms of Cremona groups_, [ArXiv](https://arxiv.org/abs/1909.11050),  International Journal of Mathematics, Vol. 32, No. 04, 2150019 (2021)
 
-6. A. Lonjou, C. Urech, _Actions of Cremona groups on CAT(0) cube complexes_, [https://arxiv.org/abs/2001.00783](https://arxiv.org/abs/2001.00783,), Duke Mathematical Journal 170.17 (2021): 3703-3743
+6. A. Lonjou, C. Urech, _Actions of Cremona groups on CAT(0) cube complexes_, [ArXiv](https://arxiv.org/abs/2001.00783,), Duke Mathematical Journal 170.17 (2021): 3703-3743
 
-7. A. Liendo, R. Regeta, C. Urech, _On the characterization of Danielewski surfaces by their automorphism group_, [https://arxiv.org/abs/1905.00423](https://arxiv.org/abs/1905.00423), Transformation Groups 27, 181–187 (2022)
+7. A. Liendo, R. Regeta, C. Urech, _On the characterization of Danielewski surfaces by their automorphism group_, [ArXiv](https://arxiv.org/abs/1905.00423), Transformation Groups 27, 181–187 (2022)
 
-8. C. Urech, _Simple groups of birational transformations in dimension two_,  [https://arxiv.org/abs/1802.09258](https://arxiv.org/abs/1802.09258), Commentarii Mathematici Helvetici, Vol. 95, Issue 2, 2020, pp. 211–246
+8. C. Urech, _Simple groups of birational transformations in dimension two_,  [ArXiv](https://arxiv.org/abs/1802.09258), Commentarii Mathematici Helvetici, Vol. 95, Issue 2, 2020, pp. 211–246
 
-9. C. Urech, _Subgroups of elliptic elements of the Cremona group_, [https://arxiv.org/abs/1606.04822](https://arxiv.org/abs/1606.04822), Journal für die reine und angewandte Mathematik (Crelles Journal), 2021, Issue 770, pp. 27-57
+9. C. Urech, _Subgroups of elliptic elements of the Cremona group_, [ArXiv](https://arxiv.org/abs/1606.04822), Journal für die reine und angewandte Mathematik (Crelles Journal), 2021, Issue 770, pp. 27-57
 
-10. C. Urech, S. Zimmermann, _A new presentation of the plane Cremona group_,[https://arxiv.org/abs/1802.02735](https://arxiv.org/abs/1802.02735), Proc. Amer. Math. Soc.  147  (2019),  no. 7, 2741–2755
+10. C. Urech, S. Zimmermann, _A new presentation of the plane Cremona group_, [ArXiv](https://arxiv.org/abs/1802.02735), Proc. Amer. Math. Soc.  147  (2019),  no. 7, 2741–2755
 
-11.  C. Urech,  _Remarks on the degree growth of birational transformations_, [https://arxiv.org/abs/1802.02735](https://arxiv.org/abs/1802.02735), Mathematical Research Letters, Vol. 25, No. 1 (2018), pp. 291-308
+11.  C. Urech,  _Remarks on the degree growth of birational transformations_, [ArXiv](https://arxiv.org/abs/1802.02735), Mathematical Research Letters, Vol. 25, No. 1 (2018), pp. 291-308
 
-12. C. Urech, _On homomorphisms between Cremona groups_, [https://arxiv.org/abs/1603.03294](https://arxiv.org/abs/1603.03294), Annales de l'Institut Fourier, Vol. 68, No. 1 (2018), pp. 53-100
+12. C. Urech, _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Annales de l'Institut Fourier, Vol. 68, No. 1 (2018), pp. 53-100
 
 
 ### Markdown
