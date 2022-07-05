@@ -1,13 +1,7 @@
 ## About me
 I am currently [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. 
 
-### CV:
-
-- 2019-2023 Bernoulli Instructor at EPFL
-
-- 2018 - 2019 Research associate at Imperial College London under the supervision of  Paolo Cascini
-
-- 2013 - 2017 PhD in Mathematics at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat
+Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
 
 
 ## Publications:
