@@ -1,13 +1,16 @@
-## About me
-I am currently [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. 
+I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. 
 
 Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
 
-
-## Publications:
-
 ### Preprints:
-1. 
+1. A. Genevois, A. Lonjou, C. Urech, _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_   [https://arxiv.org/abs/2110.14605](https://arxiv.org/abs/2110.14605)
+2. . Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_ [https://arxiv.org/abs/2110.06721](https://arxiv.org/abs/2110.06721)
+
+
+
+
+### Publications:
+
 
 ### Markdown
 
