@@ -32,7 +32,7 @@ Previously, I worked as a research associate at Imperial College London. I compl
 12. C. Urech, _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Annales de l'Institut Fourier, Vol. 68, No. 1 (2018), pp. 53-100
 
 
-### Courses taught:
+### Teaching:
 - Spring 2022: MATH 479 Linear algebraic groups, EPFL
 - Spring 2022: MATH 323 Algebraic topology, EPFL
 - Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL
@@ -47,7 +47,17 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 - Fall 2010 - Fall 2017: Teaching assistant at the University of Basel 
 
-### Supervision
+In Summer 2018 I taught the following two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey.
+
+
+
+### Supervision and Mentorship
+Don't hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
+
+So far I have supervised the following projects:
+- 
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
