@@ -63,7 +63,7 @@ So far I have supervised the following projects:
 
 ### Circus:
 
-I thoroughly enjoy all kinds of performing arts (and I think a good math talk might very well fall into this category). I am cofounder and coorganizer of [Station Circus](www.stationcircus.ch) - a venue for contemporary circus performances, as well as space for creation and community.
+I thoroughly enjoy all kinds of performing arts (and I think a good math talk might very well fall into this category). I am cofounder and coorganizer of [Station Circus](https://www.stationcircus.ch) - a venue for contemporary circus performances, as well as space for creation and community.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
