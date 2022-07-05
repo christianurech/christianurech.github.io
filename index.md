@@ -33,17 +33,21 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 
 ### Courses taught:
-- Spring 2021: MATH 479 Linear Algebraic groups (graduate), EPFL
-- Spring 2021: MATH 323 Algebraic Topology, EPFL
+- Spring 2022: MATH 479 Linear algebraic groups, EPFL
+- Spring 2022: MATH 323 Algebraic topology, EPFL
+- Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL
+- Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL
+- Spring 2021: MATH 323 Algebraic topology, EPFL
 - Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	
-- Fall 2020: MATH 111(e) Alg\`ebre Lin\'eaire pour IN/SC,  EPFL
-- Spring 2020: MATH 429 Lie Groups (graduate), EPFL
-- Spring 2020: MATH 323 Algebraic Topology, EPFL
-- Fall 2019: MATH 111(e) Alg\`ebre Lin\'eaire pour IN/SC,  EPFL
-- Spring 2019: M3P21 Algebraic Topology, Imperial College London 
+- Fall 2020: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL
+- Spring 2020: MATH 429 Lie groups (graduate), EPFL
+- Spring 2020: MATH 323 Algebraic topology, EPFL
+- Fall 2019: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL
+- Spring 2019: M3P21 Algebraic topology, Imperial College London 
 
+- Fall 2010 - Fall 2017: Teaching assistant at the University of Basel 
 
-### Markdown
+### Supervision
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
