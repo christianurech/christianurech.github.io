@@ -2,14 +2,16 @@ I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/berno
 
 Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
 
+
 ### Preprints:
 1. A. Genevois, A. Lonjou, C. Urech, _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_   [https://arxiv.org/abs/2110.14605](https://arxiv.org/abs/2110.14605)
-2. . Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_ [https://arxiv.org/abs/2110.06721](https://arxiv.org/abs/2110.06721)
+2. A. Genevois, A. Lonjou, C. Urech, _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_ [https://arxiv.org/abs/2110.06721](https://arxiv.org/abs/2110.06721)
 
 
 
+### Published papers:
+3. A. Liendo, R. Regeta, C. Urech, _Characterization of affine toric varieties by their automorphism groups_, [https://arxiv.org/abs/1805.03991](https://arxiv.org/abs/1805.03991), accepted for publication in **Annali della Scuola Normale Superiore di Pisa**
 
-### Publications:
 
 
 ### Markdown
