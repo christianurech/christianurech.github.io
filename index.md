@@ -34,7 +34,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 ### Other texts:
 
-1. My PhD thesis (Cotutelles between the Unviversity of Basel and the University of Rennes 1, under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). Defended September 2017).
+1. My [PhD thesis](dissertation_Urech_UB_online.pdf) (Cotutelles between the Unviversity of Basel and the University of Rennes 1, under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). Defended September 2017).
 2. My Master's thesis (University of Basel, under the supervision of [Hanspeter Kraft](https://kraftadmin.wixsite.com/hpkraft)).
 
 
