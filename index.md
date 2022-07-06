@@ -39,23 +39,25 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Teaching:
-I enjoy teaching mathematics on all levels (although the preparation can take up a lot of time), be it in person or online. 
+I enjoy teaching mathematics on all levels (although the preparation can take up a lot of time), be it in person or online. During the last years I got interested in modern teaching formats. I have started using formats such as flipped classroom and peer instruction, which has been very positively received by most of the students. 
+
+Courses I have taught as instructor:
 
 - Spring 2022: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
 - Spring 2022: MATH 323 Algebraic topology, EPFL (flipped classroom)
 - Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL (flipped classroom)
 - Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL (online)
 - Spring 2021: MATH 323 Algebraic topology, EPFL (online)
-- Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	
+- Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	(partially online)
 - Fall 2020: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL (hybrid format)
 - Spring 2020: MATH 429 Lie groups (graduate), EPFL (partially online)
 - Spring 2020: MATH 323 Algebraic topology, EPFL (partially online)
-- Fall 2019: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL
-- Spring 2019: M3P21 Algebraic topology, Imperial College London 
+- Fall 2019: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL (in person)
+- Spring 2019: M3P21 Algebraic topology, Imperial College London (in person)
 
-- Fall 2010 - Fall 2017: Teaching assistant at the University of Basel 
+From 2010 until 2017 I worked as a teaching assistant at the University of Basel for around a dozen different courses in various fields of mathematics.
 
-In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey.
+In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey - a wonderful place!
 
 
 
@@ -63,7 +65,6 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 Don't hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 So far I have supervised the following projects:
-- Spring 2022: Master thesis of Jeanette Fernandez about automorphisms of Aut(A^2)
 - Spring 2022: Semester project of Marie Abadie about mapping class groups
 - Fall 2021: 
 
