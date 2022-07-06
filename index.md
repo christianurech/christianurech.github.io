@@ -1,6 +1,6 @@
-I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I am mainly interested in applying tools from geometric group theory to study Cremona groups. and answer questions coming algebraic geometry and dynamics. But everything related to 
+I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
 
-Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
+My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I mainly apply tools from geometric group theory to study Cremona groups. But everything related to groups of birational transformations or polynomial automorphisms gets me excited. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
 
 
 ### Preprints
@@ -34,20 +34,22 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 ### Other texts:
 
-1. My PhD thesis (Cotutelles between the Unviversity of Basel and the University of Rennes 1 under the supervision fo Jérémy Blanc and Serge Cantat. Defended September 2017).
+1. My PhD thesis (Cotutelles between the Unviversity of Basel and the University of Rennes 1, under the supervision of Jérémy Blanc and Serge Cantat. Defended September 2017).
 2. My Master's thesis (University of Basel, under the supervision of Hanspeter Kraft).
 
 
 ### Teaching:
-- Spring 2022: MATH 479 Linear algebraic groups (graduate), EPFL
-- Spring 2022: MATH 323 Algebraic topology, EPFL
-- Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL
-- Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL
-- Spring 2021: MATH 323 Algebraic topology, EPFL
+I enjoy teaching mathematics on all levels (although the preparation can take up a lot of time), be it in person or online. 
+
+- Spring 2022: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
+- Spring 2022: MATH 323 Algebraic topology, EPFL (flipped classroom)
+- Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL (flipped classroom)
+- Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL (online)
+- Spring 2021: MATH 323 Algebraic topology, EPFL (online)
 - Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	
-- Fall 2020: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL
-- Spring 2020: MATH 429 Lie groups (graduate), EPFL
-- Spring 2020: MATH 323 Algebraic topology, EPFL
+- Fall 2020: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL (hybrid format)
+- Spring 2020: MATH 429 Lie groups (graduate), EPFL (partially online)
+- Spring 2020: MATH 323 Algebraic topology, EPFL (partially online)
 - Fall 2019: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL
 - Spring 2019: M3P21 Algebraic topology, Imperial College London 
 
