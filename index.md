@@ -1,6 +1,6 @@
-I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of Jérémy Blanc and Serge Cantat. 
+I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). 
 
-My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I mainly apply tools from geometric group theory to study Cremona groups. But everything related to groups of birational transformations or polynomial automorphisms gets me excited. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
+My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I apply tools from geometric group theory to study Cremona groups. But I am excited by everything related to groups of birational transformations or polynomial automorphisms. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
 
 
 ### Preprints
@@ -39,7 +39,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Teaching:
-I enjoy teaching mathematics on all levels, be it in person or online (although the preparation can take up a lot of time). During the last years I got interested in modern teaching formats. I have started using formats such as flipped classroom and peer instruction, this has been received very positively by most of the students. 
+I enjoy teaching mathematics on all levels, be it in person or online. During the last years I got interested in evidence-based teaching strategies and I have started teaching my courses in the mode of a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom) (integrating [peer instruction](https://en.wikipedia.org/wiki/Peer_instruction)). This has been received very positively by the students. 
 
 Courses I have taught as instructor:
 
@@ -57,21 +57,22 @@ Courses I have taught as instructor:
 
 Between 2010 and 2017 I worked as a teaching assistant at the University of Basel for around a dozen different courses in various fields of mathematics, which included grading homework and giving weekly tutorials.
 
-In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey - a wonderful place!
+In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the [Nesin Math Village](https://nesinkoyleri.org/en/nesin-villages/), Turkey - a wonderful place!
 
 
 
 ### Supervision and Mentorship
-Don't hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
+Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
-My students:
+My students until now:
 - Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2))
 - Marie Abadie, EPFL (Master's project on mapping class groups)
 - Amandine Favre, EPFL (Bachelor's project on completions)
 - Valentin Prost, EPFL (Bachelor's project on the Dehn-Nielsen-Baer theorem)
 - Blerton Rashiti, EPLF (Bachelor's project on groups and graphs)
 - Peter Whalley, ICL (UROP (Undergraduate Research Opportunity) on the Lickorish-Wallace theorem)
-- 
+- JiaJie Tao, ICL (UROP on geometric group theory)
+- Tom Buhl-Nielsen, ICL (UROP on the classification of compact surfaces)
 
 
 
