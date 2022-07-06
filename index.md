@@ -4,16 +4,16 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 
 ### Preprints
-1.  **Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes**, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605).
+1.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605).
 
-2. **Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature**, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv].(https://arxiv.org/abs/2110.06721)
+2. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv].(https://arxiv.org/abs/2110.06721)
 
 
 
 ### Published papers:
 3. A. Liendo, R. Regeta, C. Urech, _Characterization of affine toric varieties by their automorphism groups_, [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Annali della Scuola Normale Superiore di Pisa
 
-4. **Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups**, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geometry & Topology.
+4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups__, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geometry & Topology.
 
 5. C. Urech, S. Zimmermann, _Continuous automorphisms of Cremona groups_, [ArXiv](https://arxiv.org/abs/1909.11050),  International Journal of Mathematics, Vol. 32, No. 04, 2150019 (2021)
 
