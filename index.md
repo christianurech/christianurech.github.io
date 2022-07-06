@@ -1,4 +1,4 @@
-I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). Previously, I worked as a research associate at Imperial College London. I completed my PhD in 2017 at the University of Basel and the University of Rennes 1 under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). 
+I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch). Previously, I worked as a research associate at Imperial College London. I completed my [PhD](dissertation_Urech_UB_online.pdf) in 2017 at the University of Basel and the University of Rennes 1 under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). 
 
 My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I apply tools from geometric group theory to study Cremona groups. But I am excited by everything related to groups of birational transformations or polynomial automorphisms. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
 
@@ -32,10 +32,6 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 12. _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Ann. Inst. Fourier, Vol. 68, No. 1 (2018), pp. 53-100.
 
 
-### Other texts:
-
-1. My [PhD thesis](dissertation_Urech_UB_online.pdf) (Cotutelles between the Unviversity of Basel and the University of Rennes 1, under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). Defended September 2017).
-2. My Master's thesis (University of Basel, under the supervision of [Hanspeter Kraft](https://kraftadmin.wixsite.com/hpkraft)).
 
 
 ### Teaching:
