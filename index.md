@@ -13,7 +13,7 @@ Previously, I worked as a research associate at Imperial College London. I compl
 ### Published papers:
 3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Ann. Sc. norm. super. Pisa - Cl. sci.
 
-4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups__, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geom. Topol.
+4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geom. Topol.
 
 5. _Continuous automorphisms of Cremona groups_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1909.11050),  Int. J. Math., Vol. 32, No. 04, 2150019 (2021).
 
@@ -23,13 +23,13 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 8. _Simple groups of birational transformations in dimension two_,  [ArXiv](https://arxiv.org/abs/1802.09258), Comment. Math. Helv., Vol. 95, Issue 2, 2020, pp. 211–246.
 
-9. _Subgroups of elliptic elements of the Cremona group_, [ArXiv](https://arxiv.org/abs/1606.04822), Journal für die reine und angewandte Mathematik (Crelles Journal), 2021, Issue 770, pp. 27-57
+9. _Subgroups of elliptic elements of the Cremona group_, [ArXiv](https://arxiv.org/abs/1606.04822), J. fur Reine Angew. Math., 2021, Issue 770, pp. 27-57.
 
-10. C. Urech, S. Zimmermann, _A new presentation of the plane Cremona group_, [ArXiv](https://arxiv.org/abs/1802.02735), Proc. Amer. Math. Soc.  147  (2019),  no. 7, 2741–2755
+10. _A new presentation of the plane Cremona group_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1802.02735), Proc. Amer. Math. Soc.  147  (2019),  no. 7, 2741–2755
 
-11.  C. Urech,  _Remarks on the degree growth of birational transformations_, [ArXiv](https://arxiv.org/abs/1802.02735), Mathematical Research Letters, Vol. 25, No. 1 (2018), pp. 291-308
+11.  _Remarks on the degree growth of birational transformations_, [ArXiv](https://arxiv.org/abs/1802.02735), Math. Res. Lett., Vol. 25, No. 1 (2018), pp. 291-308.
 
-12. C. Urech, _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Annales de l'Institut Fourier, Vol. 68, No. 1 (2018), pp. 53-100
+12. _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Ann. Inst. Fourier, Vol. 68, No. 1 (2018), pp. 53-100.
 
 
 ### Teaching:
