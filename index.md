@@ -47,7 +47,7 @@ Previously, I worked as a research associate at Imperial College London. I compl
 
 - Fall 2010 - Fall 2017: Teaching assistant at the University of Basel 
 
-In Summer 2018 I taught the following two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey.
+In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey.
 
 
 
@@ -61,11 +61,11 @@ So far I have supervised the following projects:
 
 
 
-### Circus:
+### Circus
 
 I thoroughly enjoy all kinds of performing arts (and I think a good math talk might very well fall into this category). I am cofounder and coorganizer of [Station Circus](https://www.stationcircus.ch) - a venue for contemporary circus performances, as well as space for creation and community.
 
-
+<!---
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -95,3 +95,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--->
