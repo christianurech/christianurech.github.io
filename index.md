@@ -6,20 +6,20 @@ Previously, I worked as a research associate at Imperial College London. I compl
 ### Preprints
 1.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605).
 
-2. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv].(https://arxiv.org/abs/2110.06721)
+2. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.06721).
 
 
 
 ### Published papers:
-3. A. Liendo, R. Regeta, C. Urech, _Characterization of affine toric varieties by their automorphism groups_, [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Annali della Scuola Normale Superiore di Pisa
+3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Ann. Sc. norm. super. Pisa - Cl. sci.
 
 4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups__, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geometry & Topology.
 
-5. C. Urech, S. Zimmermann, _Continuous automorphisms of Cremona groups_, [ArXiv](https://arxiv.org/abs/1909.11050),  International Journal of Mathematics, Vol. 32, No. 04, 2150019 (2021)
+5. _Continuous automorphisms of Cremona groups_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1909.11050),  Int. J. Math., Vol. 32, No. 04, 2150019 (2021).
 
-6. A. Lonjou, C. Urech, _Actions of Cremona groups on CAT(0) cube complexes_, [ArXiv](https://arxiv.org/abs/2001.00783,), Duke Mathematical Journal 170.17 (2021): 3703-3743
+6. _Actions of Cremona groups on CAT(0) cube complexes_, with [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2001.00783,), Duke Math. J. 170.17 (2021): 3703-3743.
 
-7. A. Liendo, R. Regeta, C. Urech, _On the characterization of Danielewski surfaces by their automorphism group_, [ArXiv](https://arxiv.org/abs/1905.00423), Transformation Groups 27, 181–187 (2022)
+7. _On the characterization of Danielewski surfaces by their automorphism group_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1905.00423), Transform. Groups 27, 181–187 (2022).
 
 8. C. Urech, _Simple groups of birational transformations in dimension two_,  [ArXiv](https://arxiv.org/abs/1802.09258), Commentarii Mathematici Helvetici, Vol. 95, Issue 2, 2020, pp. 211–246
 
