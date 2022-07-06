@@ -39,7 +39,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Teaching:
-I enjoy teaching mathematics on all levels (although the preparation can take up a lot of time), be it in person or online. During the last years I got interested in modern teaching formats. I have started using formats such as flipped classroom and peer instruction, which has been very positively received by most of the students. 
+I enjoy teaching mathematics on all levels, be it in person or online (although the preparation can take up a lot of time). During the last years I got interested in modern teaching formats. I have started using formats such as flipped classroom and peer instruction, this has been received very positively by most of the students. 
 
 Courses I have taught as instructor:
 
@@ -55,7 +55,7 @@ Courses I have taught as instructor:
 - Fall 2019: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL (in person)
 - Spring 2019: M3P21 Algebraic topology, Imperial College London (in person)
 
-From 2010 until 2017 I worked as a teaching assistant at the University of Basel for around a dozen different courses in various fields of mathematics.
+Between 2010 and 2017 I worked as a teaching assistant at the University of Basel for around a dozen different courses in various fields of mathematics, which included grading homework and giving weekly tutorials.
 
 In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate Summer School at the Nesin Math Village, Turkey - a wonderful place!
 
@@ -64,9 +64,14 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 ### Supervision and Mentorship
 Don't hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
-So far I have supervised the following projects:
-- Spring 2022: Semester project of Marie Abadie about mapping class groups
-- Fall 2021: 
+My students:
+- Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2))
+- Marie Abadie, EPFL (Master's project on mapping class groups)
+- Amandine Favre, EPFL (Bachelor's project on completions)
+- Valentin Prost, EPFL (Bachelor's project on the Dehn-Nielsen-Baer theorem)
+- Blerton Rashiti, EPLF (Bachelor's project on groups and graphs)
+- Peter Whalley, ICL (UROP (Undergraduate Research Opportunity) on the Lickorish-Wallace theorem)
+- 
 
 
 
