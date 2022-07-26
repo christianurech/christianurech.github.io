@@ -35,7 +35,8 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 ### Other texts:
 
 1. [_Subgroups of Cremona groups_](https://christianurech.github.io/dissertation_Urech_UB_online.pdf), PhD thesis at the University of Basel and the University of Rennes 1, defended in September 2017.
-2. _Subgroups of elliptic elements of the plane Cremona group_, in: Oberwolfach Report 28/2018.
+
+3. _Subgroups of elliptic elements of the plane Cremona group_, in: Oberwolfach Report 28/2018.
 
 
 
