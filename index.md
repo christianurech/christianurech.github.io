@@ -13,9 +13,9 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 ### Published papers:
 3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Ann. Sc. norm. super. Pisa - Cl. sci.
 
-4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), to appear in Geom. Topol.
+4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), Geom. Topol.  26 (2022) 1385–1434.
 
-5. _Continuous automorphisms of Cremona groups_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1909.11050),  Int. J. Math., Vol. 32, No. 04, 2150019 (2021).
+5. _Continuous automorphisms of Cremona groups_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1909.11050),  Int. J. Math., Vol. 32 (2021), No. 04, 2150019.
 
 6. _Actions of Cremona groups on CAT(0) cube complexes_, with [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2001.00783,), Duke Math. J. 170.17 (2021): 3703-3743.
 
@@ -45,9 +45,10 @@ I enjoy teaching mathematics on all levels, be it in person or online. During th
 
 Courses I have taught as an instructor:
 
+- Fall 2022: MATH 111 (pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
 - Spring 2022: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
 - Spring 2022: MATH 323 Algebraic topology, EPFL (flipped classroom)
-- Fall 2021: MATH 111(pi) Algèbre linéaire flipped classroom, EPFL (flipped classroom)
+- Fall 2021: MATH 111(pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
 - Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL (online)
 - Spring 2021: MATH 323 Algebraic topology, EPFL (online)
 - Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	(partially online)
@@ -67,8 +68,8 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 My students until now:
+- Marie Abadie, EPFL ([_Master's project_](https://christianurech.github.io/Semester_Project.pdf) on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes)
 - Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2))
-- Marie Abadie, EPFL (Master's project on mapping class groups)
 - Amandine Favre, EPFL (Bachelor's project on completions)
 - Valentin Prost, EPFL (Bachelor's project on the Dehn-Nielsen-Baer theorem)
 - Blerton Rashiti, EPLF (Bachelor's project on groups and graphs)
