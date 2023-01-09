@@ -4,13 +4,13 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Preprints
-1.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605).
-
-2. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.06721).
+1. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.06721).
 
 
 
 ### Published papers:
+2.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605), to appear in IMRN.
+
 3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Ann. Sc. norm. super. Pisa - Cl. sci.
 
 4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), Geom. Topol.  26 (2022) 1385–1434.
@@ -23,7 +23,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 8. _Simple groups of birational transformations in dimension two_,  [ArXiv](https://arxiv.org/abs/1802.09258), Comment. Math. Helv., Vol. 95, Issue 2, 2020, pp. 211–246.
 
-9. _Subgroups of elliptic elements of the Cremona group_, [ArXiv](https://arxiv.org/abs/1606.04822), J. fur Reine Angew. Math., 2021, Issue 770, pp. 27-57.
+9. _Subgroups of elliptic elements of the Cremona group_, [ArXiv](https://arxiv.org/abs/1802.08485), J. fur Reine Angew. Math., 2021, Issue 770, pp. 27-57.
 
 10. _A new presentation of the plane Cremona group_, with [S. Zimmermann](https://math.univ-angers.fr/~zimmermann/), [ArXiv](https://arxiv.org/abs/1802.02735), Proc. Amer. Math. Soc.  147  (2019),  no. 7, 2741–2755
 
@@ -51,7 +51,7 @@ Courses I have taught as an instructor:
 - Fall 2021: MATH 111(pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
 - Spring 2021: MATH 479 Linear algebraic groups (graduate), EPFL (online)
 - Spring 2021: MATH 323 Algebraic topology, EPFL (online)
-- Fall 2020: MATH 735 Topics in geometric group theory (doctoral),  EPFL	(partially online)
+- Fall 2020: MATH 735 Topics in geometric group theory (doctoral), together with Yash Lodha and Marc Troyanov EPFL	(partially online)
 - Fall 2020: MATH 111(e) Algèbre linéaire pour IN/SC,  EPFL (hybrid format)
 - Spring 2020: MATH 429 Lie groups (graduate), EPFL (partially online)
 - Spring 2020: MATH 323 Algebraic topology, EPFL (partially online)
