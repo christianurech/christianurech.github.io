@@ -34,8 +34,8 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 12. _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Ann. Inst. Fourier, Vol. 68, No. 1 (2018), pp. 53-100.
 
 ### Other texts:
-1. [_Subgroups of Cremona groups_](https://christianurech.github.io/Mini-course_Rennes_vf.pdf
-), Lecture Notes for a Mini-course on median graphs with applications to Cremona groups, given together with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) at the University of Rennes 1 in May 2023.
+1. [_Lecture Notes for a Mini-course on median graphs with applications to Cremona groups_](https://christianurech.github.io/Mini-course_Rennes_vf.pdf
+), given together with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) at the University of Rennes 1 in May 2023.
 
 1. [_Subgroups of Cremona groups_](https://christianurech.github.io/dissertation_Urech_UB_online.pdf), PhD thesis at the University of Basel and the University of Rennes 1, defended in September 2017.
 
