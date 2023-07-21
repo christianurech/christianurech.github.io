@@ -4,6 +4,8 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Preprints
+1. 1. _ Finitely generated subgroups of algebraic elements of plane Cremona groups are bounded_, with [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) and [P. Przytyzki](https://www.math.mcgill.ca/pprzytyc/), [ArXiv](https://arxiv.org/abs/2307.01334).
+
 1. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.06721).
 
 
@@ -45,6 +47,8 @@ I enjoy teaching mathematics on all levels, be it in person or online. During th
 
 Courses I have taught as an instructor:
 
+- Spring 2023: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
+- Spring 2023: MATH 323 Algebraic topology, EPFL (flipped classroom)
 - Fall 2022: MATH 111 (pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
 - Spring 2022: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
 - Spring 2022: MATH 323 Algebraic topology, EPFL (flipped classroom)
@@ -68,6 +72,7 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 My students until now:
+- Céline Berthaud (Bachelor's project on hyperbolic groups)
 - Marie Abadie, EPFL ([_Master's project_](https://christianurech.github.io/Semester_Project.pdf) on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes)
 - Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2))
 - Amandine Favre, EPFL (Bachelor's project on completions)
