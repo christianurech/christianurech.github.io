@@ -15,7 +15,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 ### Published papers:
 2.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605), to appear in IMRN.
 
-3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), to appear in Ann. Sc. norm. super. Pisa - Cl. sci.
+3. _Characterization of affine toric varieties by their automorphism groups_, with [A. Liendo](http://inst-mat.utalca.cl/~aliendo/) and [A. Regeta](https://andriyregeta.wixsite.com/homepage), [ArXiv](https://arxiv.org/abs/1805.03991), Ann. Sc. Norm. Sup. Pisa-Cl. Sci. (2023), Vol. XXIV,  249-289.
 
 4. _Asymptotically rigid mapping class groups I: Finiteness properties of braided Thompson's and Houghton's groups_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2010.07225), Geom. Topol.  26 (2022) 1385–1434.
 
