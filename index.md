@@ -6,11 +6,11 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 ### Preprints
 1. _On a Theorem by Lin and Shinder through the Lens of Median Geometry_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2312.05197).
 
-1. _Finitely generated subgroups of algebraic elements of plane Cremona groups are bounded_, with [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) and [P. Przytyzki](https://www.math.mcgill.ca/pprzytyc/), [ArXiv](https://arxiv.org/abs/2307.01334).
-
 
 
 ### Published papers:
+1. _Finitely generated subgroups of algebraic elements of plane Cremona groups are bounded_, with [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) and [P. Przytyzki](https://www.math.mcgill.ca/pprzytyc/), [ArXiv](https://arxiv.org/abs/2307.01334), to appear in Journal de l'École polytechnique.
+ 
 1. _Asymptotically rigid mapping class groups II: strand diagrams and nonpositive curvature_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.06721), to appear in Transactions of the AMS.
 
 2.  _Cremona groups over finite fields, Neretin groups, and non-positively curved cube complexes_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2110.14605), International Mathematics Research Notices, Vol. 2024, Issue 1, January 2024, 554–596.
