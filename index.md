@@ -4,7 +4,9 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Preprints
-1. _On a Theorem by Lin and Shinder through the Lens of Median Geometry_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2312.05197).
+1. _Group Theoretical Characterizations of Rationality_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.07864).
+2. _The Structure of Algebraic Families of Birational Transformations_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.06475).
+3. _On a Theorem by Lin and Shinder through the Lens of Median Geometry_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2312.05197).
 
 
 
