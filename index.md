@@ -57,6 +57,9 @@ I enjoy teaching mathematics on all levels, be it in person or online. During th
 
 Courses I have taught as an instructor:
 
+- Fall 2024: 401-3132-00L Commutative Algebra, ETH
+- Spring 2024: 401-0302-10L Komplexe Analysis für ITET und RW, ETH, together with [Meike Akveld](https://people.math.ethz.ch/~akveld/)
+- Spring 2024: 401-2534-00L Geometrie für MATH
 - Spring 2023: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
 - Spring 2023: MATH 323 Algebraic topology, EPFL (flipped classroom)
 - Fall 2022: MATH 111 (pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
@@ -81,10 +84,10 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 ### Supervision and Mentorship
 Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
-My students until now:
+Supervised student projects:
 - Céline Berthaud (Bachelor's project on hyperbolic groups)
-- Marie Abadie, EPFL ([_Master's project_](https://christianurech.github.io/Semester_Project.pdf) on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes)
-- Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2))
+- Marie Abadie, EPFL ([_Master's project_](https://christianurech.github.io/Semester_Project.pdf) on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes), which has lead to the following publication: [ArXiv](https://arxiv.org/abs/2401.11557)
+- Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2)), publication forthcoming
 - Amandine Favre, EPFL (Bachelor's project on completions)
 - Valentin Prost, EPFL (Bachelor's project on the Dehn-Nielsen-Baer theorem)
 - Blerton Rashiti, EPLF (Bachelor's project on groups and graphs)
