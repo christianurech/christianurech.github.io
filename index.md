@@ -59,7 +59,7 @@ Courses I have taught as an instructor:
 
 - Fall 2024: 401-3132-00L Commutative Algebra, ETH
 - Spring 2024: 401-0302-10L Komplexe Analysis für ITET und RW, ETH, together with [Meike Akveld](https://people.math.ethz.ch/~akveld/)
-- Spring 2024: 401-2534-00L Geometrie für MATH
+- Spring 2024: 401-2534-00L Geometrie für MATH, ETH
 - Spring 2023: MATH 479 Linear algebraic groups (graduate), EPFL (flipped classroom)
 - Spring 2023: MATH 323 Algebraic topology, EPFL (flipped classroom)
 - Fall 2022: MATH 111 (pi) Algèbre linéaire classe inversée, EPFL (flipped classroom)
