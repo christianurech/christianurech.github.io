@@ -40,7 +40,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 12. _On homomorphisms between Cremona groups_, [ArXiv](https://arxiv.org/abs/1603.03294), Ann. Inst. Fourier, Vol. 68, No. 1 (2018), pp. 53-100.
 
 ### Other texts:
-3. [_Actions of Cremona groups on CAT(0) cube complexes_](https://christianurech.github.io/ZAG_Volume_URECH.pdf), contribution to the [ZAG](https://www.maths.ed.ac.uk/cheltsov/zag/) Volume.
+3. [_Actions of Cremona groups on CAT(0) cube complexes_](https://christianurech.github.io/ZAG_Volume_URECH.pdf), to appear in the [ZAG](https://www.maths.ed.ac.uk/cheltsov/zag/) Handbook of Modern Algebraic Geometry.
 
 1. [_Lecture Notes for a Mini-course on median graphs with applications to Cremona groups_](https://christianurech.github.io/Mini-course_Rennes_vf.pdf
 ), given together with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/) at the University of Rennes 1 in May 2023.
