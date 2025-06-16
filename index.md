@@ -1,9 +1,6 @@
 I am a Senior Lecturer at [ETH Zürich](https://ethz.ch). Before that, I worked as a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) at [EPFL](https://www.epfl.ch) and as a research associate at Imperial College London. I completed my [PhD](dissertation_Urech_UB_online.pdf) in 2017 at the University of Basel and the University of Rennes 1 under the supervision of [Jérémy Blanc](https://algebra.dmi.unibas.ch/blanc/) and [Serge Cantat](https://perso.univ-rennes1.fr/serge.cantat/). Here you find my [CV](https://christianurech.github.io/CV_Website_12_23.pdf). 
 
 My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I apply tools from geometric group theory to study Cremona groups. But I am excited by everything related to groups of birational transformations or polynomial automorphisms. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
-
-
-### Preprints
      
 
 
