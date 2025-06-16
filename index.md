@@ -5,7 +5,7 @@ My research lies at the intersection of algebraic geometry, geometric group theo
 
 
 ### Published/accepted papers:
-1. _Group Theoretical Characterizations of Rationality_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.07864), to appear in Inventiones Mathamtica
+1. _Group Theoretical Characterizations of Rationality_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.07864), to appear in Inventiones mathematicae.
 
 2. _The Structure of Algebraic Families of Birational Transformations_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.06475), to appear in Advances in Mathematics.
 
