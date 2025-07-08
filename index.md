@@ -3,6 +3,9 @@ I am a Senior Lecturer at [ETH Zürich](https://ethz.ch). Before that, I worked 
 My research lies at the intersection of algebraic geometry, geometric group theory, and dynamics. I apply tools from geometric group theory to study Cremona groups. But I am excited by everything related to groups of birational transformations or polynomial automorphisms. Recently, I have also worked on braided Thompson's groups and their finiteness properties.
      
 
+### Preprints:
+1. _Representations of finite subgroups of Cremona groups_, with [A. Duncan](https://duncan.math.sc.edu/), and [B. Heath](https://www.jasonbaileyheath.com/), [ArXiv](https://arxiv.org/abs/2507.04474v1)
+
 
 ### Published/accepted papers:
 1. _Group Theoretical Characterizations of Rationality_, with [A. Regeta](https://andriyregeta.wixsite.com/homepage), and [I. van Santen](https://algebra.dmi.unibas.ch/vansanten/), [ArXiv](https://arxiv.org/abs/2409.07864), to appear in Inventiones mathematicae.
