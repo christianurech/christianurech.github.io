@@ -4,7 +4,9 @@ My research lies at the intersection of algebraic geometry, geometric group theo
      
 
 ### Preprints:
-1. _Representations of finite subgroups of Cremona groups_, with [A. Duncan](https://duncan.math.sc.edu/), and [B. Heath](https://www.jasonbaileyheath.com/), [ArXiv](https://arxiv.org/abs/2507.04474v1)
+1. _Asymptotically rigid mapping class groups III: Presentations and isomorphisms_, with [A. Genevois](https://sites.google.com/view/agenevois) and [A. Lonjou](https://www.imo.universite-paris-saclay.fr/~lonjou/), [ArXiv](https://arxiv.org/abs/2510.11336).
+
+2. _Representations of finite subgroups of Cremona groups_, with [A. Duncan](https://duncan.math.sc.edu/), and [B. Heath](https://www.jasonbaileyheath.com/), [ArXiv](https://arxiv.org/abs/2507.04474v1).
 
 
 ### Published/accepted papers:
