@@ -91,6 +91,9 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 Supervised student projects:
+
+PhD student: Beatrice Bernasconi (2025-...)
+
 Master level:
 - Alois Schaffler, ETH Master's project on the theorem of Jung and van der Kulk, Master's thesis on the euclidean topology on groups of birational transformations
 - Melissa Daneile, ETH Master's project on the theorem of Noether and Castelnuovo
@@ -101,6 +104,10 @@ Master level:
 Bachelor level: 
 - Katharina Knist, ETHZ
 - Emily Dikhoff, ETHZ
+- Helena Busenhart, ETHZ
+- Diego Torres, ETHZ
+- Manuel Vargas, ETHZ
+- Arian Tahirukaj, ETHZ
 - Adrian Gashi, ETHZ
 - Céline Berthaud, EPFL
 - Amandine Favre, EPFL 
