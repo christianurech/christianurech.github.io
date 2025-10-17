@@ -91,16 +91,24 @@ In Summer 2018 I taught two courses at the 2018 TMD Undergraduate and Graduate S
 Do not hesitate to get in touch, if you want to do a project with me. At the intersection of algebraic geometry, group theory, and topology there are many beautiful and fun subjects on all levels. 
 
 Supervised student projects:
-- Céline Berthaud (Bachelor's project on hyperbolic groups)
-- Marie Abadie, EPFL ([_Master's project_](https://christianurech.github.io/Semester_Project.pdf) on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes), which has lead to the following publication: [ArXiv](https://arxiv.org/abs/2401.11557)
+Master level:
+- Alois Schaffler, ETH Master's project on the theorem of Jung and van der Kulk, Master's thesis on the euclidean topology on groups of birational transformations
+- Melissa Daneile, ETH Master's project on the theorem of Noether and Castelnuovo
+- Marie Abadie, EPFL Master's project on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes, which has lead to the following publication: [ArXiv](https://arxiv.org/abs/2401.11557)
 - Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2)), publication forthcoming
-- Amandine Favre, EPFL (Bachelor's project on completions)
-- Valentin Prost, EPFL (Bachelor's project on the Dehn-Nielsen-Baer theorem)
-- Blerton Rashiti, EPLF (Bachelor's project on groups and graphs)
-- Peter Whalley, ICL (UROP (Undergraduate Research Opportunity) on the Lickorish-Wallace theorem)
-- JiaJie Tao, ICL (UROP on geometric group theory)
-- Tom Buhl-Nielsen, ICL (UROP on the classification of compact surfaces)
 
+
+Bachelor level: 
+- Katharina Knist, ETHZ
+- Emily Dikhoff, ETHZ
+- Adrian Gashi, ETHZ
+- Céline Berthaud, EPFL
+- Amandine Favre, EPFL 
+- Valentin Prost, EPFL 
+- Blerton Rashiti, EPFL 
+- Peter Whalley, ICL 
+- JiaJie Tao, ICL 
+- Tom Buhl-Nielsen, ICL 
 
 
 ### Circus
