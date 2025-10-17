@@ -96,7 +96,7 @@ PhD student: Beatrice Bernasconi (2025-...)
 
 Master level:
 - Alois Schaffler, ETH Master's project on the theorem of Jung and van der Kulk, Master's thesis on the euclidean topology on groups of birational transformations
-- Melissa Daneile, ETH Master's project on the theorem of Noether and Castelnuovo
+- Melissa Daniele, ETH Master's project on the theorem of Noether and Castelnuovo
 - Marie Abadie, EPFL Master's project on mapping class groups and Master's thesis on asymptotically rigid mapping class groups and their actions on CAT(0) cube complexes, which has lead to the following publication: [ArXiv](https://arxiv.org/abs/2401.11557)
 - Jeanette Fernandez, EPFL (Master's project on Weil's regularization theorem and Master's thesis on automorphisms of Aut(A^2)), publication forthcoming
 
