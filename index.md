@@ -61,8 +61,9 @@ I enjoy teaching mathematics on all levels, be it in person or online. During th
 Courses I have taught as an instructor:
 
 - Fall 2025: 401-2003-00L Algebra I, ETH
-- Fall 2025: 401-3001-61L Algebraic Topology I, ETH
+- Fall 2025: 401-3001-61L Algebraic Topology I, ETH (flipped classroom)
 - Spring 2025: 401-3146-12L Algebraic Geometry, ETH
+- Spring 2025: 401-0302-10L Mtahematische Methoden für ITET und RW, ETH, together with [Meike Akveld](https://people.math.ethz.ch/~akveld/)
 - Fall 2024: 401-3132-00L Commutative Algebra, ETH
 - Spring 2024: 401-0302-10L Komplexe Analysis für ITET und RW, ETH, together with [Meike Akveld](https://people.math.ethz.ch/~akveld/)
 - Spring 2024: 401-2534-00L Geometrie für MATH, ETH
